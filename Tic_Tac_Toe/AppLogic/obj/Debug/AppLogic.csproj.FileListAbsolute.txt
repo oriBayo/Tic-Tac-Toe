@@ -1,0 +1,7 @@
+C:\Users\oriro\Documents\GitHub\C# Tic Tac Toe\DN_HIT_2021B_Ex02\Tic_Tac_Toe\AppUI\bin\Debug\AppLogic.dll.config
+C:\Users\oriro\Documents\GitHub\C# Tic Tac Toe\DN_HIT_2021B_Ex02\Tic_Tac_Toe\AppUI\bin\Debug\AppLogic.dll
+C:\Users\oriro\Documents\GitHub\C# Tic Tac Toe\DN_HIT_2021B_Ex02\Tic_Tac_Toe\AppUI\bin\Debug\AppLogic.pdb
+C:\Users\oriro\Documents\GitHub\C# Tic Tac Toe\DN_HIT_2021B_Ex02\Tic_Tac_Toe\AppUI\obj\Debug\AppLogic.csproj.AssemblyReference.cache
+C:\Users\oriro\Documents\GitHub\C# Tic Tac Toe\DN_HIT_2021B_Ex02\Tic_Tac_Toe\AppUI\obj\Debug\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\oriro\Documents\GitHub\C# Tic Tac Toe\DN_HIT_2021B_Ex02\Tic_Tac_Toe\AppUI\obj\Debug\AppLogic.dll
+C:\Users\oriro\Documents\GitHub\C# Tic Tac Toe\DN_HIT_2021B_Ex02\Tic_Tac_Toe\AppUI\obj\Debug\AppLogic.pdb
